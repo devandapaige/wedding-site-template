@@ -57,5 +57,90 @@
             "question": "I still have questions. Who should I contact?",
             "answer": "We would love to answer your questions! At this time, many of your questions are still in the works. Please return back to this website as the date gets closer to additional information!"
         }
+    ],
+    "rsvpFormID": "gNxM5PCK",
+    "timeline": [
+        {
+            "time": "2:30pm ET",
+            "event": "Ceremony Begins",
+            "location": "Saint Matthew’s Catholic Church"
+        },
+        {
+            "time": "3:15pm ET",
+            "event": "Cocktail Hour",
+            "location": "Greenland’s Lodge"
+        },
+        {
+            "time": "5:15pm ET",
+            "event": "Bridal Party Entrances"
+        },
+        {
+            "time": "5:30pm ET",
+            "event": "First Dance"
+        },
+        {
+            "time": "5:30pm ET",
+            "event": "Let's Eat"
+        },
+        {
+            "time": "6:30pm ET",
+            "event": "Speeches"
+        },
+        {
+            "time": "7:00pm ET",
+            "event": "Parents Dances"
+        },
+        {
+            "time": "7:15pm ET",
+            "event": "Cake Cutting"
+        },
+        {
+            "time": "7:30pm ET",
+            "event": "Let's Get Dancing"
+        },
+        {
+            "time": "10:45pm ET",
+            "event": "Reception Ends"
+        }
+    ],
+    "bridesmaids": ["Amanda Nelson: Matron of Honor",
+        "Quinn Gaylord: 'Quinn' of Honor",
+        "Mackenzie Gardner",
+        "Kaitlin Port",
+        "Shandel Baier",
+        "Madeline Gaylord",
+        "Annette Wright",
+        "Gwen Baier"],
+    "groomsmen": ["James Baier: Best Man",
+        "Ryan Eck",
+        "Brennan Eiswerth",
+        "Eric Sander",
+        "Benjamin Folmar",
+        "Travis Eiswerth",
+        "Jared Gaylord"],
+    "importantDates": [
+        {
+            "date": "02-14-2021", 
+            "title": "The First 'Official' Date"
+        },
+        {
+            "date": "10-15-2021", 
+            "title": "The 'Yes' Day"
+        },
+        {
+            "date": "04-29-2023", 
+            "title": "The Best Day"
+        }
+    ],
+    "eventLocations": [
+        {
+            "name": "Saint Matthew’s Catholic Church",
+            "address": "1105 Cameron Avenue Tyrone, PA 16686",
+            "ungluggedLang": ["Unplugged:", "We want our guests to be fully present with us as we celebrate our love. We promise to share all of the amazing photos our professional photographer will take."]
+        },
+        {
+            "name": "Greenland’s Lodge of Spruce Creek",
+            "address": "3462 Birmingham Pike, Alexandria, PA 16611"
+        }
     ]
 }
