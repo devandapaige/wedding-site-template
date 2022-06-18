@@ -1,0 +1,61 @@
+{
+    "brideFirst": "Rebecca",
+    "brideLast": "Gaylord",
+    "groomFirst": "Stephen",
+    "groomLast": "Baier",
+    "siteTitle": "Stephen & Rebecca",
+    "siteName": "Baier",
+    "weddingDate": "April, 29th, 2023",
+    "faqs": [
+        {
+            "question": "How do you say 'Baier'?", 
+            "answer": "Baier is pronounced buy-er"
+        },
+        {
+            "question": "Children",
+            "answer": "While we love your children as much as you do, we have decided to limit the children attending. Those children invited have been detailed accordingly on the invitation."
+        },
+        {
+            "question": "Attire", 
+            "answer": ["Cocktail. Please dress up with us on our big day!", 
+                "The bride respectfully asks to be the only one in white.", 
+                "The groom respectfully asks to be the only one in navy."]
+        },
+        {
+            "question": "Transportation", 
+            "answer": "Please fill out the survey located in the RSVP to express interest in transportation services."
+        },
+        {
+            "question": "Accommodations", 
+            "answer": ["We have a block of rooms available under “Baier-Gaylord Wedding”",
+                "At: Fairfield Inn & Suites by Marriott",
+                "9970 Shaner Blvd., Huntingdon, PA 16652",
+                "Approximately 15 minutes from the reception site and 30 minutes from the ceremony.",
+                "Prices TBD"]
+        },
+        {
+            "question": "Can I bring a date?",
+            "answer": "Our wedding is strictly RSVP only. We are only able to accommodate those who have been listed on invitations. Don’t worry! The dance floor will be full!"
+        },
+        {
+            "question": "RSVP Deadline",
+            "answer": "March 25th, 2023"
+        },
+        {
+            "question": "Dietary restrictions",
+            "answer": "We will do our best to accommodate our loved ones."
+        },
+        {
+            "question": "Pandemic Guidelines",
+            "answer": "There are currently no restrictrictions with our venue. However, we want everyone to feel safe! If wearing a mask makes you feel safest, we encourage you to do so!"
+        },
+        {
+            "question": "Accessibility",
+            "answer": "Both our reception and ceremony locations will be indoors and wheelchair accessible."
+        },
+        {
+            "question": "I still have questions. Who should I contact?",
+            "answer": "We would love to answer your questions! At this time, many of your questions are still in the works. Please return back to this website as the date gets closer to additional information!"
+        }
+    ]
+}
